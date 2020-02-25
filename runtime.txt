@@ -1,1 +1,1 @@
-python-3.6
+registry.gitlab.com/utt-connected-innovation/utt-blockchain-2020
